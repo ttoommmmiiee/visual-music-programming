@@ -4,9 +4,10 @@ A repository of visual music programming languages
 | Name | Initial release | Stable release | Description | Licence | Link |
 |-|-|-|-|-|-|
 | AudioMulch | 1998 | 2016 |AudioMulch is software for live performance, audio processing,sound design and music composition.| Paid |[Website](https://web.archive.org/web/20250806000046/http://www.audiomulch.com/)|
-| Jeskola Buzz | | | |     |[Website](https://jeskola.net/buzz/)|
-| Pure Data    | | | |     |[Website](https://web.archive.org/web/20250824205434/https://puredata.info/)|
-| Nodal        | | | |     |[Website](https://web.archive.org/web/20250711183547/https://nodalmusic.com/)|
+| Jeskola Buzz | 2009 | 2016 |Buzz is a Digital Audio Workstation with a unique top-down approach to music composition known as a tracker interface.
+ | freeware |[Website](https://jeskola.net/buzz/)|
+| Pure Data    | 1996 | 2024 | |Standard Improved BSD License|[Website](https://web.archive.org/web/20250824205434/https://puredata.info/)|
+| Nodal        | 2005 | | Nodal is generative software for composing music, interactive real-time improvisation, and a musical tool for experimentation and play. | Paid |[Website](https://web.archive.org/web/20250711183547/https://nodalmusic.com/)|
 | OpenMusic    | | | |     |[Website](https://web.archive.org/web/20250712030139/http://repmus.ircam.fr/openmusic/home)|
 | Max MSP      | | | |     |[Website](https://web.archive.org/web/20250819193823/https://cycling74.com/)|
 | Reaktor      | | | |     |[Website](https://web.archive.org/web/20250818144111/https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/)|
