@@ -11,7 +11,7 @@ A repository of visual music programming languages
 | Max MSP      | | | |     |[Website](https://web.archive.org/web/20250819193823/https://cycling74.com/)|
 | Reaktor      | | | |     |[Website](https://web.archive.org/web/20250818144111/https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/)|
 | SynthEdit    | | | |     |[Website](https://web.archive.org/web/20250819140345/http://www.synthedit.com/)|
-| Kyma         | | | |     |[Website]([https://kyma.symbolicsound.com/](https://web.archive.org/web/20250827074035/https://kyma.symbolicsound.com/))|
+| Kyma         | | | |     |[Website](https://web.archive.org/web/20250827074035/https://kyma.symbolicsound.com/)|
 | FlowStone    | | | |     |[Website](https://web.archive.org/web/20250617043148/http://www.dsprobotics.com/flowstone.html) |
 | Synth Maker  | | | |     |[Website](https://web.archive.org/web/20250823231530/https://www.synthmaker.co.uk/)|
 
