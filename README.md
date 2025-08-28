@@ -1,2 +1,60 @@
 # visual-music-programming
 A repository of visual music programming languages
+
+| Name | Initial release | Stable release | Description | Licence | Link |
+|-|-|-|-|-|-|
+| AudioMulch | 1998 | 2016 |AudioMulch is software for live performance, audio processing,sound design and music composition.| Paid |[Website](https://web.archive.org/web/20250806000046/http://www.audiomulch.com/)|
+| Jeskola Buzz | | | |     |[Website](https://jeskola.net/buzz/)|
+| Pure Data    | | | |     |[Website](https://web.archive.org/web/20250824205434/https://puredata.info/)|
+| Nodal        | | | |     |[Website](https://web.archive.org/web/20250711183547/https://nodalmusic.com/)|
+| OpenMusic    | | | |     |[Website](https://web.archive.org/web/20250712030139/http://repmus.ircam.fr/openmusic/home)|
+| Max MSP      | | | |     |[Website](https://web.archive.org/web/20250819193823/https://cycling74.com/)|
+| Reaktor      | | | |     |[Website](https://web.archive.org/web/20250818144111/https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/)|
+| SynthEdit    | | | |     |[Website](https://web.archive.org/web/20250819140345/http://www.synthedit.com/)|
+| Kyma         | | | |     |[Website]([https://kyma.symbolicsound.com/](https://web.archive.org/web/20250827074035/https://kyma.symbolicsound.com/))|
+| FlowStone    | | | |     |[Website](https://web.archive.org/web/20250617043148/http://www.dsprobotics.com/flowstone.html) |
+| Synth Maker  | | | |     |[Website](https://web.archive.org/web/20250823231530/https://www.synthmaker.co.uk/)|
+
+
+### How to contribute
+
+You can contribute by adding new visual music programming languages or updating existing entries in the table found in the `README.md` file.
+
+#### To add a new entry
+
+1. Fork the repository to your own GitHub account.
+2. Open the `README.md` file in your fork.
+3. Scroll to the table under “A repository of visual music programming languages”.
+4. Add a new row at the end of the table using this format:
+
+   ```markdown
+   | Name | Initial release | Stable release | Description | Licence | Link |
+   |------|------------------|----------------|-------------|---------|------|
+   | ExampleLang | 2005 | 2023 | A modular environment for visual music composition | GPL-3.0 | https://example.com |
+   ```
+
+   - Use the full name of the language.
+   - Include the year of the first and most recent stable release, if known.
+   - Keep the description short and factual.
+   - Specify the licence clearly (e.g. MIT, GPL-3.0, proprietary).
+   - Use a reliable link—preferably the official website or an archived version via https://web.archive.org.
+
+5. Commit your changes with a clear message (e.g. `Add ExampleLang to table`).
+6. Open a pull request to the main repository.
+
+#### To amend an existing entry
+
+1. Follow steps 1–2 above.
+2. Find the row you want to update in the table.
+3. Edit the relevant fields, keeping formatting consistent.
+4. Commit your changes with a message like `Update release info for Pure Data`.
+5. Open a pull request.
+
+#### Best practice
+
+- Keep descriptions concise and neutral.
+- Avoid promotional or subjective language.
+- Use consistent formatting (e.g. capitalisation, spacing, link style).
+- Prefer archived links to reduce risk of link rot.
+
+If you're unsure about a change, feel free to open an issue to discuss it first.
