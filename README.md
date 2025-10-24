@@ -1,5 +1,5 @@
 # visual-music-programming
-A repository of visual music programming languages
+A repository documenting the history of visual music programming languages.  
 
 
 | Name                    | Initial release | Stable release | OS  | Description                                                                                                                                             | Licence                       | Link                                                                                                                            |
